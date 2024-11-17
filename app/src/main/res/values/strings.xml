@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Assignment 4</string>
+    <string-array name="Social_Media_array">
+        <item>Instagram</item>
+        <item>LinkedIn</item>
+        <item>Messenger</item>
+        <item>Snapchat</item>
+        <item>Telegram</item>
+        <item>Threads</item>
+        <item>Twitter</item>
+        <item>WhatsApp</item>
+        <item>YouTube</item>
+
+    </string-array>
+    <string-array name="Social_Media_array_subtitle">
+        <item> A social media platform for sharing photos, videos and stories. Offering features like filters, reels and direct messaging. It’s widely used for personal branding and marketing.
+        </item>
+        <item> A professional networking platform that connects job seekers, employers and professionals. It focuses on career development, industry news and business connections.
+        </item>
+        <item>  A messaging app by Meta for instant text, voice and video communication. It integrates with Facebook for seamless connectivity.
+        </item>
+        <item> A multimedia messaging app known for its disappearing messages, fun filters and Stories feature. It’s popular for casual social interactions.
+        </item>
+        <item> A cloud-based messaging app emphasizing speed and security. Offering features like large group chats, file sharing and bots.
+        </item>
+        <item>  A text-based conversation app by Meta, designed for quick sharing of updates and participating in public discussions, often linked with Instagram.
+        </item>
+        <item> A microblogging platform for real-time updates, news and conversations. Users share opinions and news in short posts called tweets.
+        </item>
+        <item> A widely used messaging app for text, voice and video communication. It also supports group chats and end-to-end encryption.
+        </item>
+        <item>
+            A video-sharing platform where users upload, watch and interact with video content. It hosts diverse content, from tutorials to entertainment.
+        </item>
+    </string-array>
+</resources>
